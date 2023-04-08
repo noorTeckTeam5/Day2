@@ -8,4 +8,7 @@ public class Day2Demo {
 public void multiple(int a, int b) {
 	System.out.println(a * b);
 }
+public void getStr() {
+	System.out.println("Get STR");
+}
 }
